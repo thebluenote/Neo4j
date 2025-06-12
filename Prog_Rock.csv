@@ -1,8 +1,7 @@
-;;;;;;;;;
-;Song;Album;Year;Band;Vocals;Guitar;Bass;Keyboards;Drums
-;In the court of the Crimson King;In the court of the Crimson King;1969;King Crimson;Greg Lake;Robert Fripp;Greg Lake;Ian McDonald;Michael Giles
-;Starless;Red;1974;King Crimson;John Wetton;Robert Fripp;John Wetton;Robert Fripp;Bill Brufford
-;Close to the Edge;Close to the Edge;1972;Yes;Jon Anderson;Steve Howe;Chris Squire;Rick Wakeman;Bill Brufford
-;Heart of the Moment;Asia;1981;Asia;John Wetton;Steve Howe;John Wetton;Geoff Downes;Carl Palmer
-;Lucky Man;ELP;1970;Emerson, Lake and Palmer;Greg Lake;Greg Lake;Greg Lake;Keith Emerson;Carl Palmer
-;Into the Lens;Drama;1980;Yes;Trevor Horn;Steve Howe;Chris Squire;Geoff Downes;Alan White
+Song,Album,Year,Band,Vocals,Guitar,Bass,Keyboards,Drums
+In the court of the Crimson King,In the court of the Crimson King,1969,King Crimson,Greg Lake,Robert Fripp,Greg Lake,Ian McDonald,Michael Giles
+Starless,Red,1974,King Crimson,John Wetton,Robert Fripp,John Wetton,Robert Fripp,Bill Brufford
+Close to the Edge,Close to the Edge,1972,Yes,Jon Anderson,Steve Howe,Chris Squire,Rick Wakeman,Bill Brufford
+Heart of the Moment,Asia,1981,Asia,John Wetton,Steve Howe,John Wetton,Geoff Downes,Carl Palmer
+Lucky Man,ELP,1970,Emerson, Lake and Palmer,Greg Lake,Greg Lake,Greg Lake,Keith Emerson,Carl Palmer
+Into the Lens,Drama,1980,Yes,Trevor Horn,Steve Howe,Chris Squire,Geoff Downes,Alan White
